@@ -1,0 +1,40 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===================  
+            common css start
+====================*/
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* ===================  
+            common css end
+====================*/
+.navbar {
+  min-height: 80px;
+}
+/* == hero section css part == */
+/* == hero section css part == */
+
+.hero-section img {
+  height: calc(100vh - 80px);
+  object-fit: cover;
+}
+
+.carousel-item:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+}
