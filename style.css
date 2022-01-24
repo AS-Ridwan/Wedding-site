@@ -13,9 +13,6 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-.toaster-show {
-  z-index: 1;
-}
 
 /* ===================  
             common css end
@@ -41,10 +38,7 @@ body {
   right: 0;
   background: rgba(0, 0, 0, 0.7);
 }
-.carousel-info {
-  position: absolute;
-  top: 450px;
-}
+
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
   width: 3vw;
