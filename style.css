@@ -27,7 +27,7 @@ body {
 /* == hero section css part == */
 
 .hero-section img {
-  height: calc(100vh - 80px);
+  height: 100vh;
   object-fit: cover;
 }
 
@@ -44,6 +44,11 @@ body {
 .carousel-info {
   position: absolute;
   top: 450px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 3vw;
+  height: 3vw;
 }
 
 /* ===================  
