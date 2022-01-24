@@ -43,7 +43,7 @@ body {
 }
 .carousel-info {
   position: absolute;
-  top: 500px;
+  top: 450px;
 }
 
 /* ===================  
@@ -71,4 +71,17 @@ li .fas {
 }
 /* ===================  
          package section end
+====================*/
+
+/* ===================  
+         contact section start
+====================*/
+
+.col-lg-5 {
+  flex: 0 0 auto;
+  width: 35.666667%;
+}
+
+/* ===================  
+         contact section end
 ====================*/
