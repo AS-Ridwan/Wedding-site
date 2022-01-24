@@ -55,6 +55,9 @@ li {
   color: #848199 !important;
   padding: 5px 0;
 }
+.card-body .card-texts {
+  color: #fff !important;
+}
 li .fas {
   color: #5243c2;
   font-size: 18px;
@@ -62,6 +65,9 @@ li .fas {
 }
 .card {
   border-radius: 40px;
+}
+.start-100 {
+  left: 93% !important;
 }
 /* ===================  
          package section end
