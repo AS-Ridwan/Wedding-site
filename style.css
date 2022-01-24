@@ -38,3 +38,6 @@ body {
   right: 0;
   background: rgba(0, 0, 0, 0.7);
 }
+.toaster-show {
+  z-index: 1;
+}
